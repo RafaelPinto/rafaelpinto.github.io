@@ -5,8 +5,8 @@ pulled data from file systems with crawlers, from SQL and MongoDB, and the web. 
 with Numpy, Pandas, Matplotlib, and Seaborne. I’m passionate about documenting and TDD.
 
 ## SKILLS
-**Python**: Pathlib, CSV, Itertools, Collections. **Data**: NumPy, Pandas. Viz: Matplotlib, Seaborn, PyViz,
-ipywidgets. **Deploy**: Voila, Heroku. Databases: SQLite, Postgres, MongoDB. **Testing**: Pytest, Unittest.
+**Python**: Pathlib, CSV, Itertools, Collections. **Data**: NumPy, Pandas. **Viz**: Matplotlib, Seaborn, PyViz,
+ipywidgets. **Deploy**: Voila, Heroku. **Databases**: SQLite, Postgres, MongoDB. **Testing**: Pytest, Unittest.
 
 ## EXPERIENCE
 ### Noble Energy, Houston, TX / Unconventional Technology Geo
