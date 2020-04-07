@@ -32,11 +32,11 @@ consistent subsalt geologic model from multidisciplinary and disparate data. Whe
 automated processes with Python, e.g., computing probability maps from hundreds of map realizations.
 
 ## EDUCATION
-Statistics with Python / Present / Coursera certified
-Powerful Python Academy / Present
-Pybites Green Belt / 2019 / [Pybites certificate](https://codechalleng.es/badge/08a71b66-7d8c-4533-aa20-20a8ee53ab97)
-Python for Everybody / 2018 / [Coursera certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/W85M5WJNLFQK)
-Colorado School of Mines / MS Geophysics / May 2011 / GPA: 3.7
+Statistics with Python / Present / Coursera certified <br/>
+Powerful Python Academy / Present <br/>
+Pybites Green Belt / 2019 / [Pybites certificate](https://codechalleng.es/badge/08a71b66-7d8c-4533-aa20-20a8ee53ab97) <br/>
+Python for Everybody / 2018 / [Coursera certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/W85M5WJNLFQK) <br/>
+Colorado School of Mines / MS Geophysics / May 2011 / GPA: 3.7 <br/>
 Universidad Central de Venezuela / BS Geophysics / December 2008 / 1 st in class
 
 ## COMMUNICATION
